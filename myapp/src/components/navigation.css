@@ -1,0 +1,58 @@
+body{
+	margin:0;
+	
+}
+.link{
+	color:black;
+	text-decoration: none;
+	margin-left: 10px;
+	
+	margin-top:3%;
+
+
+
+}
+.wrapper{
+display: flex;
+justify-content: row;
+	align-items: center;
+	
+	height: 969px;
+	padding-bottom:200px;
+
+
+
+}
+.card{
+	margin-left: 10px;
+	
+}
+.card:first-child{
+	margin-bottom: 10%;
+	margin-left: 35%;
+}
+.card:nth-child(2){
+	margin-left: -10%;
+	margin-top:5%;
+
+}
+.card:nth-child(3){
+	margin-left: 1%;
+	margin-top:23%;
+
+}
+.card:nth-child(4){
+	margin-left: 27%;
+	margin-top:25%;
+
+}
+.card:last-child{
+	margin-left: -5%;
+	margin-top:-10%;
+
+}
+
+
+.foto img{
+width: 70px;
+}

@@ -1,0 +1,9 @@
+body{
+	margin:0;
+
+background-image :url(..//logo.png);
+ background-repeat: no-repeat;
+ background-position: 50% -50%;
+	color:green;
+	height: 969px;
+}
